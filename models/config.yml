@@ -1,0 +1,12 @@
+clip: 0.2
+exp_id: v01_wall
+gamma: 0.99
+log_dir: /home/sumukh/turtlebot3_ws/src/turtlebot3/turtlebot3_teleop/turtlebot3_teleop/script/summary
+lr: 0.0003
+max_timesteps_per_episode: 400
+n_updates_per_iteration: 50
+render: true
+render_every_i: 10
+save_freq: 2
+seed: null
+timesteps_per_batch: 4000
